@@ -1,0 +1,24 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "***NAME - KARTHIK MADARAPU ***\r -- George Brown College",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikmadarapu/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karthikmadarapu/COMP3104/issues"
+  },
+  "homepage": "https://github.com/karthikmadarapu/COMP3104#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
