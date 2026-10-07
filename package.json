@@ -4,7 +4,12 @@
   "description": "***NAME - KARTHIK MADARAPU ***\r -- George Brown College",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+     "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\"",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/karthikmadarapu/COMP3104/issues"
   },
-  "homepage": "https://github.com/karthikmadarapu/COMP3104#readme",
+  "homepage": "https://github.com/karthikmadarapu/COMP3104",
   "dependencies": {
     "express": "^5.2.1",
    
